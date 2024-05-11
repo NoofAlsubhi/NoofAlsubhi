@@ -4,7 +4,7 @@
 </h1>
 
 
-A passionate Data Analystic  and I hope I can make great projects through this year and share it with all of you ✨
+A passionate Data Engineer  and I hope I can make great projects through this year and share it with all of you ✨
 
 <div align="center"> 
   <a href="mailto:CS.AlsubhiNoof@gmail.com">
